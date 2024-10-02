@@ -1,0 +1,10 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string>
+    <string name="firebase_database_url" translatable="false">https://fitness-app-e894c-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">922817725962</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIZsVuT2ZnqH6q6YMQ9zelvyeGzCyDrTc</string>
+    <string name="google_app_id" translatable="false">1:922817725962:android:e0f1c204297a6af92f81f3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIZsVuT2ZnqH6q6YMQ9zelvyeGzCyDrTc</string>
+    <string name="project_id" translatable="false">fitness-app-e894c</string>
+    <string name="google_storage_bucket" translatable="false">fitness-app-e894c.appspot.com</string>
+</resources>
